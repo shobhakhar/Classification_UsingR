@@ -1,5 +1,5 @@
 # Analyze the information given in the Affairs dataset and create classifiers using it.
-## The description of the attributes in the dataset are as follows:\
+## The description of the attributes in the dataset are as follows:
 • affairs – numeric. How often engaged in extramarital sexual 
 intercourse during the past year
 
